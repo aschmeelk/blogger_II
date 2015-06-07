@@ -1,2 +1,2 @@
 # blogger_II
-A Ruby tutorial
+A Ruby tutorial: beginner level.
